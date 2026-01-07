@@ -30,7 +30,7 @@ This dashboard is designed to:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](/01.jpeg)
+![Dashboard Screenshot](01.jpeg)
 
 
 ---
