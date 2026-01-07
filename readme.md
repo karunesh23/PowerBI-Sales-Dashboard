@@ -84,8 +84,8 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
-- **Phone:** +91 9520132466
-- **LinkedIn:** [linkedin.com/in/Shubham](https://www.linkedin.com/in/shubham-singh-64827a228/)
+- **Email:** [karuneshbansal84@gmail.com](mailto:karuneshbansal84@gmail.com)
+- **Phone:** +91 8295169318
+- **LinkedIn:** [linkedin.com/in/karunesh](https://www.linkedin.com/in/karunesh-bansal-780828380/)
 
 I look forward to hearing from you!
